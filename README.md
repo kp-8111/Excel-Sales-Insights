@@ -1,44 +1,65 @@
-## Sales Report :
+# Excel Sales Insights Project
 
+## Overview
+This project focuses on utilizing Excel for detailed **sales** and **financial analysis**, enabling businesses to make data-driven decisions. By analyzing patterns, tracking KPIs, and creating actionable reports, the project aims to empower strategic planning and operational efficiency.
 
-- **Project objective:** 
+---
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+## 📊 **Sales Report**
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+### **Objective**
+1. **[Customer Performance Report](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/Customer%20Performance%20Report.pdf):** Analyze the performance of customers across various years and identify growth trends.
+2. **[Market Performance vs Sales Targets Report](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/Market%20Performance%20vs%20Target%20Report.pdf):** Compare actual market performance with sales targets.
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+### **Purpose**
+- Enable businesses to monitor and evaluate their sales activities.
+- Identify effective sales strategies and opportunities for expansion.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+### **Importance**
+- Spot sales patterns and optimize key performance indicators (KPIs).
+- Support negotiations with customers by offering insights into discounts and pricing strategies.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+---
 
+## 💰 **Finance Report**
 
-## Finance Report :
+### **Objective**
+1. **[Profit & Loss (P&L) by Fiscal Year](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf):** Evaluate yearly financial performance.
+2. **[Profit & Loss (P&L) by Months](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/P%26L%20Statement%20by%20Months.pdf):** Analyze month-over-month revenue and profitability.
+3. **[Profit & Loss (P&L) by Markets](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/P%26L%20Statement%20by%20Markets.pdf):** Compare profitability across different markets.
 
-- **Project objective:** 
+### **Purpose**
+- Facilitate informed decision-making and stakeholder communication.
+- Establish a foundation for budgeting, forecasting, and long-term financial planning.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+### **Importance**
+- Benchmark performance against industry standards.
+- Align financial goals with organizational strategies.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+---
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+## 🛠 **Technical Skills**
+- [x] Expertise in **ETL methodology** (Extract, Transform, Load).
+- [x] Ability to **generate date tables** using Power Query.
+- [x] Proficiency in deriving **fiscal months and quarters**.
+- [x] Establishing **data model relationships** with Power Pivot.
+- [x] Incorporating supplementary data into existing models.
+- [x] Utilizing **DAX** for calculated columns and measures.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+---
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+## 🤝 **Soft Skills**
+- [x] Strong grasp of sales and finance concepts.
+- [x] Empathetic design of user-centric reports.
+- [x] Expertise in optimizing report generation.
+- [x] Strategic planning and execution in report creation.
 
+---
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+### 🌟 **Explore the Reports**
+Dive into the interactive analysis and uncover actionable insights:
+- **[Customer Performance Report](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/Customer%20Performance%20Report.pdf)**
+- **[Market Performance vs Sales Targets Report](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/Market%20Performance%20vs%20Target%20Report.pdf)**
+- **[Profit & Loss (P&L) by Fiscal Year](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**
+- **[Profit & Loss (P&L) by Months](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/P%26L%20Statement%20by%20Months.pdf)**
+- **[Profit & Loss (P&L) by Markets](https://github.com/kp-8111/Excel-Sales-Insights/blob/main/reports/P%26L%20Statement%20by%20Markets.pdf)**
